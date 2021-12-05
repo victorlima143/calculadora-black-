@@ -1,2 +1,5 @@
 # calculadora-black-
-calculadora usando JAVASCRIPT
+calculadora usando
+JAVASCRIPT
+CSS
+HTML
